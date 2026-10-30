@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix RAM SUMBER REZEKI - Sistem Keuangan \u0026 Timbang Sawit",
+  "description": "Aplikasi manajemen operasional dan keuangan RAM Sumber Rezeki untuk mengelola pembelian sawit petani, stok, pengiriman PKS, kas, utang-piutang, dan laba rugi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
